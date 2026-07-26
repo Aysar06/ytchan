@@ -11,6 +11,7 @@ Working repo for a faceless, long-form YouTube channel: **business post-mortems*
 | **[notes/channel-bible.md](notes/channel-bible.md)** | ⭐ The locked plan — premise, avatar, promise, title system, episode template, visual system, risks |
 | [notes/episode-slate.md](notes/episode-slate.md) | First 10 episodes, ranked, with the outlier data behind them |
 | [notes/narration-guide.md](notes/narration-guide.md) | How to record the voiceover — setup, delivery, non-native clarity, time budget |
+| [notes/narration-research-sources.md](notes/narration-research-sources.md) | 172 references behind the narration guide |
 | [notes/monetization-safety.md](notes/monetization-safety.md) | Risk register and production rules |
 | [notes/niche-research-2026-07-25.md](notes/niche-research-2026-07-25.md) | vidIQ data behind the niche choice |
 | [notes/vidiq-playbook.md](notes/vidiq-playbook.md) | Rules extracted from 7 vidIQ transcripts, with cross-transcript synthesis |
